@@ -49,6 +49,22 @@ section {
 	width: 50px;
 }
 
+.color-1 {
+	background: #58DCC3;
+
+}
+
+.color-2 {
+	background: #E44329
+}
+
+.color-3 {
+	background: #069A77
+}
+
+.pattern-1 {
+	background: url("../img/feathers.png")
+}
 
 /* Show Grid */
 .showgrid {
