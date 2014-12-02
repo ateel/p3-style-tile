@@ -1,14 +1,22 @@
 /*Primary Header*/
 h1 {
-	font-family: 'Fontdiner Swanky', cursive;
-	color: #221B62;
+	font-family: 'Oswald', sans-serif;
+	color: #000;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+}
+
+h3 {
+	font-family: 'Droid Serif', serif;
+	color: #007599;
 }
 
 /*paragraph text*/
 
 p {
-	font-family: 'Lobster', cursive;
-	color: #ccc;
+	font-family: 'Droid Serif', serif;
 }
 
 /*baseline links*/
@@ -50,20 +58,29 @@ section {
 }
 
 .color-1 {
-	background: #58DCC3;
+	background: #007599;
 
 }
 
 .color-2 {
-	background: #E44329
+	background: #668AFF;
 }
 
 .color-3 {
-	background: #069A77
+	background: #A65529;
 }
 
 .pattern-1 {
-	background: url("../img/feathers.png")
+	background: url("../img/bg.png")
+}
+
+.pattern-2 {
+	background: url("../img/bg2.png")
+
+}
+
+.pattern-3 {
+	background: url("../img/bg3.png")
 }
 
 /* Show Grid */
